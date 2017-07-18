@@ -1,0 +1,156 @@
+{
+  "time" : {
+    "start" : 1497712599165,
+    "stop" : 1497712605050,
+    "duration" : 5885
+  },
+  "testSuites" : [ {
+    "uid" : "e3a33093b8c3ba12",
+    "name" : "Verify Invalid Login for multiple users | chris@technosoftacademy.io | abc123 |",
+    "title" : "Verify Invalid Login for multiple users | chris@technosoftacademy.io | abc123 |",
+    "time" : {
+      "start" : 1497712603983,
+      "stop" : 1497712605050,
+      "duration" : 1067
+    },
+    "statistic" : {
+      "total" : 5,
+      "passed" : 5,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "127656a52b975e3a",
+      "name" : "And I am on home page",
+      "title" : "And I am on home page",
+      "time" : {
+        "start" : 1497712603983,
+        "stop" : 1497712603983,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "16e68966a0c55e5a",
+      "name" : "When I enter chris@technosoftacademy.io into username text fields on home screen",
+      "title" : "When I enter chris@technosoftacademy.io into username text fields on home screen",
+      "time" : {
+        "start" : 1497712604150,
+        "stop" : 1497712604150,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "e23a6294f244350c",
+      "name" : "And I enter abc123 into password text fields on home screen",
+      "title" : "And I enter abc123 into password text fields on home screen",
+      "time" : {
+        "start" : 1497712604222,
+        "stop" : 1497712604223,
+        "duration" : 1
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "c7b8a24fa5aa3363",
+      "name" : "And I click on login button on home screen",
+      "title" : "And I click on login button on home screen",
+      "time" : {
+        "start" : 1497712605015,
+        "stop" : 1497712605015,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "a02bfed95e97e8b8",
+      "name" : "Then I verify that i am an invalid login page",
+      "title" : "Then I verify that i am an invalid login page",
+      "time" : {
+        "start" : 1497712605050,
+        "stop" : 1497712605050,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  }, {
+    "uid" : "e8847e30a093ae8",
+    "name" : "Verify Invalid Login for multiple users | mohammad@technosoftacademy.io | test1234 |",
+    "title" : "Verify Invalid Login for multiple users | mohammad@technosoftacademy.io | test1234 |",
+    "time" : {
+      "start" : 1497712599165,
+      "stop" : 1497712600355,
+      "duration" : 1190
+    },
+    "statistic" : {
+      "total" : 5,
+      "passed" : 5,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "f116461b7bf2676b",
+      "name" : "And I am on home page",
+      "title" : "And I am on home page",
+      "time" : {
+        "start" : 1497712599165,
+        "stop" : 1497712599167,
+        "duration" : 2
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "c72b8652b6882c8e",
+      "name" : "When I enter mohammad@technosoftacademy.io into username text fields on home screen",
+      "title" : "When I enter mohammad@technosoftacademy.io into username text fields on home screen",
+      "time" : {
+        "start" : 1497712599447,
+        "stop" : 1497712599447,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "b45907cde4de0520",
+      "name" : "And I enter test1234 into password text fields on home screen",
+      "title" : "And I enter test1234 into password text fields on home screen",
+      "time" : {
+        "start" : 1497712599535,
+        "stop" : 1497712599535,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "270d8ea5e2e1daa4",
+      "name" : "And I click on login button on home screen",
+      "title" : "And I click on login button on home screen",
+      "time" : {
+        "start" : 1497712600319,
+        "stop" : 1497712600319,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "6200de26626cfebf",
+      "name" : "Then I verify that i am an invalid login page",
+      "title" : "Then I verify that i am an invalid login page",
+      "time" : {
+        "start" : 1497712600355,
+        "stop" : 1497712600355,
+        "duration" : 0
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}
